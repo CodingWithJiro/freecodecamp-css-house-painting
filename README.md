@@ -13,6 +13,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/522ea87d-bf17-4d08-926f-8d00235b831f/deploy-status)](https://house-painting-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-house-painting&left_text=repo%20views)
 
 ## ℹ️ House Layout Rendered with Pure CSS
 
