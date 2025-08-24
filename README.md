@@ -27,7 +27,7 @@ It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](ht
 
 ## 🔍 Overview
 
-This project visualizes a minimal house with a roof, windows, a door, and a chimney using divs styled with CSS. No images or SVGs were used—just shapes created by CSS properties like width, height, background color, and borders.
+This project visualizes a minimal house with a roof, windows, a door, and a chimney using divs styled with CSS. No images or SVGs were used, just shapes created using CSS properties like width, height, background color, and borders.
 
 It’s a purely creative exercise meant to improve positioning, layering, and component structuring skills using only front-end code, focusing heavily on absolute positioning and z-index stacking logic.
 
